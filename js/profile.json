@@ -95,119 +95,63 @@
 			"sn":14,
 			"name":"Bootstrap",
 			"icon":"M75.701 65.603c-2.334-.768-5.694-.603-10.08-.603h-17.621v23h18.844c2.944 0 5.012-.315 6.203-.535 2.099-.376 3.854-1.104 5.264-1.982 1.409-.876 2.568-2.205 3.478-3.881.908-1.676 1.363-3.637 1.363-5.83 0-2.568-.658-4.54-1.975-6.436-1.316-1.896-3.141-2.965-5.476-3.733zM73.282 55.087c2.317-.688 4.064-1.89 5.239-3.487 1.176-1.598 1.763-3.631 1.763-6.044 0-2.286-.549-4.314-1.646-6.054s-2.662-2.413-4.699-3.056c-2.037-.641-5.53-.446-10.48-.446h-15.459v20h16.587c4.042 0 6.939-.38 8.695-.913zM126 18.625c0-9.182-7.443-16.625-16.625-16.625h-91.75c-9.182 0-16.625 7.443-16.625 16.625v91.75c0 9.182 7.443 16.625 16.625 16.625h91.75c9.182 0 16.625-7.443 16.625-16.625v-91.75zm-35.447 66.12c-1.362 2.773-3.047 4.911-5.052 6.415-2.006 1.504-4.521 2.78-7.544 3.548-3.022.769-6.728 1.292-11.113 1.292h-27.844v-69h27.42c5.264 0 9.485.609 12.665 2.002 3.181 1.395 5.671 3.497 7.474 6.395 1.801 2.898 2.702 5.907 2.702 9.071 0 2.945-.8 5.708-2.397 8.308-1.598 2.602-4.011 4.694-7.237 6.292 4.166 1.222 7.37 3.304 9.61 6.248 2.24 2.945 3.36 6.422 3.36 10.432 0 3.227-.681 6.225-2.044 8.997z"
-		},
+		}
 	
 	],
 	"works": [
 		{
 			"sn":2,
-			"link":"www.druba-fsy.com",
-			"workPosition": "Co-Founder",
-			"periodStart": "September 2011",
-			"periodEnd": "May 2012",
-			"organisation": "Druba-FSY",
-			"experience": "It was nice to do some non-profit work for underprivileged children."
-		},
-		{
-			"sn":1,
-			"link":"http://sheikhimtiaz.wordpress.com/",
-			"workPosition": "Lecturer",
-			"periodStart": "August 2011",
-			"periodEnd": "March 2014",
-			"organisation": "Four Teachers Coaching(FTC)",
-			"experience": "I took physics and math class."
+			"link":"www.jijoty.com",
+			"workPosition": "Software Engineer",
+			"periodStart": "May, 2014",
+			"periodEnd": "August 2017",
+			"organisation": "Jijoty(BD) Limited",
+			"experience": "My responsibilities included developing web applications using Zend framework and mobile applications for android devices"
 		}
 	],
 	"projects":[
 		{
-			"sn":1, "projectTitle": "dsalglib ",
+			"sn":1, "projectTitle": "ImStarvin ",
 			"periodStart": "May 2016",
 			"periodEnd": "Present",
 			"toolsUsed": ["c++"],
 			"tags": ["ds", "algo", "template", "c++"],
 			"shortInfo": "Its a ready to use data structures and algorithms c++ template library.Many useful data structures and algorithms are implemented . One should just focus on his/her project necessity and dsalglib will take care of data structures and algorithms.",
 			"link":"http://moghya.me/dsalglib/"
-		},
-		{
-			"sn":2, "projectTitle": "Strategic Location using Facebook Data",
-			"periodStart": "Dec 2016",
-			"periodEnd": "Dec 2016",
-			"toolsUsed": ["python","scikit-learn","ipynb","graph-api"],
-			"tags": ["machine-learning","regression","python"],
-			"shortInfo": "Choosing optimal location for business using data from social media websites contribute largely to the profit.Our System helps business choose optimal location for higher number of check-ins .indirectly helping businesses to increase their profits.We have used to machine learning techniques to help improve our system.",
-			"link":""
-		},
-		{
-			"sn":3, "projectTitle": "prowessIndex",
-			"periodStart": "June 2017",
-			"periodEnd": "June 2017",
-			"toolsUsed": ["python","flask","pandas"],
-			"tags": ["python","data analytics"],
-			"shortInfo": "This is a simple flask web app implementation of a paper that I'm writing 'Making Sense of Numbers'. This paper proposes method for deriving inferences about prowessness of a stduent using attained graded.",
-			"link":"http://novatoscript.pythonanywhere.com/"
 		}
 	],
-	"summary": "Hi, I’m Imtiaz. I believe in Maths. I seek to learn and try to apply all that I learn in a way that makes life easier. I can design and develop technology solutions. Mathematics, Algorithms, Data Structures  and Machine Learning are my areas of Interest. I'm looking for an Internship where I can learn and grow by using my tech skills and make this world a better place.",
+	"summary": "Hi, I'm Saila Nasrin. I am a problem solver. I love coding. I seek to learn and try to apply all that I learn in a way that makes life easier. I can design and develop technology solutions for web and mobile devices.Data structures, Algorithms, Artificial Intelligence, Machine Learning, cloud computing and Big Data are my areas of Interest.",
 	"profileLinks": [
-		{
-			"name": "Facebook",
-			"icon": "facebook.svg",
-			"link": "https://www.facebook.com/minorprogression",
-			"sn":9
-		},
+	
 		{
 			"name": "Github",
 			"icon": "github.svg",
-			"link": "https://github.com/sheikhimtiaz",
+			"link": "https://github.com/saila-lopa",
 			"sn":1
 		},
 		{
 			"name": "LinkedIn",
 			"icon": "linkedin.svg",
-			"link": "https://www.linkedin.com/in/sheikhimtiaz/",
+			"link": "https://www.linkedin.com/in/saila-lopa-62507b37/",
 			"sn":2
 		},
 		{
-			"name": "Codeforces",
-			"icon": "codeforces.svg",
-			"link": "http://codeforces.com/profile/sheikhimtiaz",
-			"sn":3
-		},
-		{
-			"name": "Codechef",
-			"icon": "codechef.png",
-			"link": "https://www.codechef.com/users/sheikhimtiaz",
+			"name": "Uva Online Judge",
+			"icon": "uva.png",
+			"link": "https://uhunt.onlinejudge.org/id/75974",
 			"sn":4
-		},
-		{
-			"name": "Hackerrank",
-			"icon": "hackerrank.svg",
-			"link": "https://www.hackerrank.com/sheikhimtiaz",
-			"sn":5
-		},
-		{
-			"name": "Hackerearth",
-			"icon": "hackerearth.png",
-			"link": "https://www.hackerearth.com/@sheikhimtiaz",
-			"sn":6
 		},
 		{
 			"name": "Medium",
 			"icon": "medium.svg",
-			"link": "https://medium.com/@sheikhimtiaz",
+			"link": "https://medium.com/@sailacse",
 			"sn":7
 		},
 		{
 			"name": "Quora",
 			"icon": "quora.svg",
-			"link": "https://www.quora.com/profile/Imtiaz-Ahmed-40",
+			"link": "https://www.quora.com/profile/Saila-Lopa",
 			"sn":8
-		},
-		{
-			"name": "Twitter",
-			"icon": "twitter.svg",
-			"link": "https://twitter.com/_sheikhimtiaz",
-			"sn":10
 		}
 	],
 	"likes":[
@@ -215,11 +159,6 @@
 			"name":"Programming",
 			"icon":"programming.svg",
 			"sn":1
-		},
-		{
-			"name":"Maths",
-			"icon":"maths.svg",
-			"sn":2
 		},
 		{
 			"name":"Armed Forces",
@@ -264,8 +203,8 @@
 
 	],
 	"qoutes": [
-		"If you cannot be a pencil to write someone's happiness, then try to be an erases to erase someone's sorrows.",
-		"Tabs are better than spaces."
+		"They say they built the train tracks over the Alps before there was a train that could make the trip. They built it anyway.",
+		"Tabs are better than spaces.", "To iterate is human, to recurse divine."
 	],
 	"helloText":"<p>Thanks for visiting my webspace.</p><p>Currently I'm studying B.Sc Computer Science & Engineering at Shahjalal University of Science & Technology. I do Web development, Machine Learning and Computer Algorithms.I overwhelmingly like C++, Python and Javascript :)</p><p>How can I help you ?</br>I can design, develop and deliver technological solutions to your problems.</p><p>Do we have something in common ?</br>Let's have a talk about it and grow together.</br> We don't have anything in common ?</br>Oh then that's great, please introduce me something that I'm missing.</p>"
 }
