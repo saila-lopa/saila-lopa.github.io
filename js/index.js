@@ -103,13 +103,7 @@ function loadLikes(likes){
 }
 
 var profile;
-	swal(
-		{
-			title:"Hello there!",
-			text:"You have landed upon little webspace of Imtiaz.",
-			confirmButtonColor:"#1f1f1f"
-		}
-	);
+
 $.get("js/profile.json",
 	function(data, status){
 		profile = data;
